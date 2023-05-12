@@ -1,11 +1,3 @@
-"""
-Super-resolution of CelebA using Generative Adversarial Networks.
-The dataset can be downloaded from: https://drive.google.com/drive/folders/0B7EVK8r0v71pTUZsaXdaSnZBZzg?resourcekey=0-rJlzl934LzC-Xp28GeIBzQ
-Instrustion on running the script:
-1. Download the dataset from the provided link
-2. Save the folder 'img_align_celeba' to './datasets/img_align_celeba'
-4. Run the sript using command 'python train.py'
-"""
 
 import argparse
 import os
